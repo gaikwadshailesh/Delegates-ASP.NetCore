@@ -27,3 +27,12 @@ This project demonstrates the usage of delegates in C# using an ASP.NET Core Web
    - Used for logging operations
 
 ## Project Structure
+
+DelegateDemo/
+├── Controllers/
+│   └── CalculatorController.cs
+├── Models/
+│   └── Calculator.cs
+├── Program.cs
+├── DelegateDemo.csproj
+└── DelegateDemo.sln
